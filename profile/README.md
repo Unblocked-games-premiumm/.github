@@ -3,13 +3,9 @@
 
 **Here are some ideas to get you started:**
 
-https://artlesson.online/
+<a href="https://retro2.blog/" target="_blank">CLICK TO PLAY GAMES</a> 
 
-https://mathlessons.live
-
-https://mathlessons.pages.dev
-
-https://huup.pages.dev
+<a href="https://classroom1.space" target="_blank">CLICK TO PLAY GAMES 2</a>
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
