@@ -7,6 +7,9 @@
 
 <a href="https://classroom1.space" target="_blank">CLICK TO PLAY GAMES 2</a>
 
+<a href="https://magar-io.com" target="_blank">CLICK TO PLAY GAMES 3</a>
+
+
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
